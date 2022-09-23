@@ -927,6 +927,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
 }
 
+
+/* Depoiments
+--------------------------------*/
+
+
+#portfolio #portfolio-Depoiments {
+  padding: 0;
+  margin: 5px 0 35px 0;
+  list-style: none;
+  text-align: center;
+}
+
 /* Contact Section
 --------------------------------*/
 
