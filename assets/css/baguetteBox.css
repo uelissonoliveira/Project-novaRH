@@ -19,7 +19,7 @@
   -webkit-transition: opacity 0.5s ease;
           transition: opacity 0.5s ease; }
   #baguetteBox-overlay.visible {
-    opacity: 1; }
+    opacity: 100; }
   #baguetteBox-overlay .full-image {
     display: inline-block;
     position: relative;
@@ -151,7 +151,7 @@
 */
 .spinner {
   width: 40px;
-  height: 40px;
+  height: 4px;
   display: inline-block;
   position: absolute;
   top: 50%;
