@@ -931,7 +931,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #contact {
-  padding: 60px 0;
+  padding: 40px 0;
 }
 
 #contact .contact-info {
@@ -1115,8 +1115,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #5ac7cf;
   width: 60px;
 }
-
-
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
